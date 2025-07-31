@@ -34,12 +34,11 @@ Classify salary category (>50K or <=50K) using supervised learning models, with 
 
  This type of predictive modeling can be useful for:
  
-    - HR analytics and recruitment 
-    
-    - Income classification for financial eligibility
-    
-    - Demographic studies and research
-    
+  - HR analytics and recruitment
+  
+  - Income classification for financial eligibility
+
+  - Demographic studies and research
 
 🧑‍💻 **Author:**
 
