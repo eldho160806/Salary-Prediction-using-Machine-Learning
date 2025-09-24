@@ -23,7 +23,7 @@ Classify salary category (>50K or <=50K) using supervised learning models, with 
    
 📂 **What's Included:**
 
-  -✅ salary_prediction.ipynb : https://colab.research.google.com/drive/1YSqjH2dH21KVi-81q9M582fpLYj6b-v5?usp=sharing
+  -✅ salary_prediction.ipynb : https://colab.research.google.com/drive/1ZFC7o5a7kTsC1Hae45KFDsJkvWv7Fqzx?usp=sharing
   
   -📄 adult 3.csv : https://www.mediafire.com/file/1fw5t7627ghsmvk/adult+3.xlsx/file
   
